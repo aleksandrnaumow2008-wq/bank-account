@@ -1,0 +1,25 @@
+# Binaries
+*.class
+*.exe
+*.dll
+*.so
+*.dylib
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+/bin/
+/build/
+/out/
+
+# Temporary
+*.tmp
+*.log
